@@ -38,6 +38,7 @@ NAME OF A TEACHER
 This means that this project have a 1:N relation. In this particular case, due to the ID SUBJECT in the table TASK, I can extract the name of the subject and show it in the
 frontend
 
-The rest of the project has a CRUD totally functional.
+The rest of the project has a CRUD totally functional. To test the backend properly, you can use Postman with this link:
+https://documenter.getpostman.com/view/17847912/UUy7bjQc
 
 <p align="right">(<a href="#top">back to top</a>)</p>
