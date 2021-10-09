@@ -18,10 +18,7 @@
 <br>
 2.-To start ionic , open the terminal and write ionic serve.
 
-
-##About the page
-
-2 Tables
+This project is build with 2 tables on SQL
 
 I build one table to save all the task
 This have :
