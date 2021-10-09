@@ -15,6 +15,7 @@
 - [Angular](https://angular.io/)
 
 1.- Open your IDE for Spring and run spring boot app.
+<br>
 2.-To start ionic , open the terminal and write ionic serve.
 
 
