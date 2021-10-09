@@ -1,7 +1,7 @@
 <br />
 <div align="center">
   <p align="center">
-    CRUD work for PGV and PGL subjects using spring and ionic. 
+    CRUD with Spring and Ionic for Tasks
     <br />
 
   </p>
